@@ -22,10 +22,13 @@ With Covid-19 and the George Floyd protests, bitcoin and gold paralleled each ot
 ## Data Sources
 We used 3 main data sources: Bitcoin (Coindesk API), Dow Jones Industrial Average (FRED DJIA CSV), and Gold Prices (Nasdaq Historical Data CSV).<p>
 
+Bitcoin (Coindesk API)
 ![Bitcoin](https://github.com/darrenr10/Project_1/blob/main/visuals/coindesk-logo.PNG)
- 
+
+Dow Jones Industrial Average (FRED DJIA CSV)
 ![DowJones](https://github.com/darrenr10/Project_1/blob/main/visuals/fred-logo.PNG)
 
+Gold Prices (Nasdaq Historical Data CSV)
 ![Gold](https://github.com/darrenr10/Project_1/blob/main/visuals/nasdaq-logo.PNG)
 
 ## Data Cleaning
