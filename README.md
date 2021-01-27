@@ -29,9 +29,6 @@ We had 3 main themes in data cleaning:<p>
 2. Datetime conversion: In order to merge all datasets by the date, we had to further clean the data by converting all date columns to the same datetime format.<p>
 3. Missing data: Bitcoin is a 24/7 trading platform, whereas the DJIA and Gold are closed during weekends and holidays. Therefore, when we combined all 3 data sources, there were noticable gaps in the DJIA and Gold line charts compared to Bitcoin. To fix this, we decided to drop the weekend and hoilday values so our data could be compared equally.<p> 
 
-## Data Visualization
-
-
 ## Repository Organization
 ### Main Project File
 In this repo you will find our main project file, named: **project-nb.ipynb** <p><p>
