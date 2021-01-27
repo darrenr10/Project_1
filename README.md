@@ -38,5 +38,5 @@ The data linked to our project file is located in the **data** folder.<p>
   Additionally, our presentation file is also located in this folder.<p>
 
 ### Draft Folder
-Our draft notebooks are located in the **Drafts** folder. <p><p>
+Our draft notebooks are located in the **Drafts** folder. These are not part of our final, but we felt it would help visualize the procession of our project. <p><p>
 
