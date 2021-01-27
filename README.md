@@ -4,11 +4,11 @@ Project 1 - Chelsea Senter, Darren Raymond, Emi Lopez, Meredith Johnson, and Rya
 Welcome to our first project!<p><p>
 
 
-### Overview
+# Overview
 In this project, we wanted to analyze Bitcoin's reaction to several events that occurred in 2020. Obviously, Covid-19 has been the #1 story of 2020, so we wanted to look at that as well as the summer protests due to social unrest following the death of George Floyd and the 2020 U.S. Election. <p><p>
 
-
-## Main Project File
+# Repository Organization
+### Main Project File
 In this repo you will find our main project file, named: **project-nb.ipynb** <p><p>
  
 ### Data Folder
