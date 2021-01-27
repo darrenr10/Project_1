@@ -28,6 +28,8 @@ We used 3 main data sources: Bitcoin (Coindesk API), Dow Jones Industrial Averag
 
 ![Gold](visuals/nasdaq-logo.png)
 
+![Bitcoin](https://github.com/darrenr10/Project_1/blob/main/visuals/coindesk-logo.PNG)
+
 ## Data Cleaning
 We had 3 main themes in data cleaning:<p>
 1. Column Manipulation: One of the first cleaning tasks we dealt with was to rename the column headers in all data sources to match each other. This was necessary for a successful merge later on based on the date. 
@@ -35,6 +37,7 @@ We had 3 main themes in data cleaning:<p>
 3. Missing data: Bitcoin is a 24/7 trading platform, whereas the DJIA and Gold are closed during weekends and holidays. Therefore, when we combined all 3 data sources, there were noticable gaps in the DJIA and Gold line charts compared to Bitcoin. To fix this, we decided to drop the weekend and hoilday values so our data could be compared equally.<p> 
 
 ## Data Visualization
+
 
 ## Repository Organization
 ### Main Project File
