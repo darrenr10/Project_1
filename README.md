@@ -21,12 +21,16 @@ With Covid-19 and the George Floyd protests, bitcoin and gold paralleled each ot
 
 ## Data Sources
 We used 3 main data sources: Bitcoin (Coindesk API), Dow Jones Industrial Average (FRED DJIA CSV), and Gold Prices (Nasdaq Historical Data CSV).<p>
-
+![Bitcoin](visuals/coindesk-logo.png)
+![DowJones](visuals/fred-logo.png)
+![Gold](visuals/nasdaq-logo.png)
 ## Data Cleaning
 We had 3 main themes in data cleaning:<p>
 1. Column Manipulation: One of the first cleaning tasks we dealt with was to rename the column headers in all data sources to match each other. This was necessary for a successful merge later on based on the date. 
 2. Datetime conversion: In order to merge all datasets by the date, we had to further clean the data by converting all date columns to the same datetime format.<p>
 3. Missing data: Bitcoin is a 24/7 trading platform, whereas the DJIA and Gold are closed during weekends and holidays. Therefore, when we combined all 3 data sources, there were noticable gaps in the DJIA and Gold line charts compared to Bitcoin. To fix this, we decided to drop the weekend and hoilday values so our data could be compared equally.<p> 
+
+## Data Visualization
 
 ## Repository Organization
 ### Main Project File
@@ -38,5 +42,5 @@ The data linked to our project file is located in the **data** folder.<p>
   Additionally, our presentation file is also located in this folder.<p>
 
 ### Draft Folder
-Our draft notebooks are located in the **Drafts** folder. These are not part of our final, but we felt it would help visualize the procession of our project. <p><p>
+Our draft notebooks are located in the **Drafts** folder. We created branches for each person in the group instead of what task was being worked on. Therefore we are not including these notebooks as part of our final project, but we felt it would help visualize the progression of our ideas. <p><p>
 
